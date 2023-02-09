@@ -1,2 +1,3 @@
-My name is Betty
-1-who_am_i
+creat a script that switches the current user to the user betty
+write a script that prints the effective username of the current user
+write a script that prints all the groups the current user is part of
